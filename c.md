@@ -36,6 +36,7 @@ switch(變數)
 #include <time.h>  
 srand(time(NULL));  
 變數 = (rand()%n); //變數隨機取數0~(n-1)  
+break 可以用來跳出循環(例如while(1))  
 
   
 
